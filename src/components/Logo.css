@@ -1,0 +1,17 @@
+#image{
+    width:65vh;
+    height: fit-content;
+    box-sizing: border-box;
+    padding-bottom: 35px;
+ 
+
+}
+
+#image img{
+    display: flex;
+    place-self: center;
+    padding-top: 20px;
+    width:30vh;
+    height: 32vh;
+
+}
